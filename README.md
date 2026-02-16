@@ -1,8 +1,10 @@
 # Oracle Pluggable Databases Assignment II
 
 ## Student Information
-Name: Dushime Aline Denise
-Student ID: 27812 
+Name: Dushime Aline Denise.
+
+Student ID: 27812 .
+
 Course: INSY 8311 - Database Development with PL/SQL  
 
 ## Overview
