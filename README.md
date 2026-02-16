@@ -1,8 +1,8 @@
 # Oracle Pluggable Databases Assignment II
 
 ## Student Information
-Name: Ange  
-Student ID: 2024101  
+Name: Dushime Aline Denise
+Student ID: 27812 
 Course: INSY 8311 - Database Development with PL/SQL  
 
 ## Overview
@@ -33,7 +33,7 @@ OEM accessed successfully and dashboard verified.
 <img width="1239" height="611" alt="Screenshot 2026-02-16 125456" src="https://github.com/user-attachments/assets/5a2bc986-baaf-4e2c-9c0f-81a42a2695de" />
 
 ## Challenges
-No major challenges encountered.
+the installation was challanging!
 
 ## Integrity Statement
 I declare that this work was completed individually and reflects my own practical execution.
