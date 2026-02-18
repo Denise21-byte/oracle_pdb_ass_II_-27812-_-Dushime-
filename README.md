@@ -32,7 +32,8 @@ an_to_delete_pdb_2024101
 ## Task 3: Oracle Enterprise Manager
 OEM accessed successfully and dashboard verified.
 
-<img width="1239" height="611" alt="Screenshot 2026-02-16 125456" src="https://github.com/user-attachments/assets/5a2bc986-baaf-4e2c-9c0f-81a42a2695de" />
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/10675fee-7edc-4ddc-a2a2-d435f6eb91f0" />
+
 
 ## Challenges
 the installation was challanging!
